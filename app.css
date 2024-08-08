@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+h1, form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
+#searchSubmit {
+    background-color: rgb(40, 40, 40);
+    color: aliceblue;
+}
+
+#removeBtn {
+    background-color: rgb(253, 26, 9);
+    color: aliceblue;
+}
